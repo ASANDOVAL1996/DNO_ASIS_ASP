@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1kdnJHufJd5Fa3brY89rh82mZtzMDIVY8">
+	<name>Neumáticos</name>
+	<gx:CascadingStyle kml:id="__managed_style_2E6B884A381EF4734237">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1875C717001EF4734237">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_13DA69E1EA1EF4734235">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_285472121A1EF4734235">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0157380FEC1EF4734235">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13DA69E1EA1EF4734235</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_285472121A1EF4734235</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2A4D5418391EF473423B">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_104E25BB081EF473423B">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0256857B011EF4734237">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1875C717001EF4734237</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E6B884A381EF4734237</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_020C05FA051EF473423B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_104E25BB081EF473423B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2A4D5418391EF473423B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0A25D2DC941EF345AC83">
+		<name>Chile</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>-61.4890513127156</longitude>
+			<latitude>-20.65828225481674</latitude>
+			<altitude>5234.173991208502</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>23983218.42995167</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_020C05FA051EF473423B</styleUrl>
+		<Point>
+			<coordinates>-72.63977288966498,-39.86015556393292,-1485.229012654607</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F073400F01EF32CF020">
+		<name>Keeneyes Industry</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>121.5615011907548</longitude>
+			<latitude>25.08540608769367</latitude>
+			<altitude>23.23943777486708</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>67357.22177557649</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0157380FEC1EF4734235</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUlzRy92WW5aOGxzcEMxVUlOVmJHWDBVL1RHRUlLeUF6c3A1RlVKU2JaQ3VxVGlvSHgyM1M1c2hzVTlrWEpuRUVLY2NjK0Q4T2pFcjhDNG9tUVFGR2kxcW51S0ZOZjJpNndRbHZnb3hueklpejhpUUdka1JDUEJ1NERBekQvRndqbXh2RWFta01mdW1rZXBVUHgrVm1xd2J5TGpEMVZ2eHZRYTNtV05kNlNQSlkwaUxLZkJKb2RYQ2FsdHRyT1ROdnZWdWNkdmFjZDJRR1MzV2lkemJ6cm1oa1N4T1pqMlF5WmExaHJ3cFNpZzY3cW96RVV3bnl3PT0">
+				<gx:ImageUrl>https://doc-14-8k-mymaps.googleusercontent.com/untrusted/hostedimage/nc99lrgmq6vokucj4iknv3jf2s/h6jf9e31r13p2g1atr0mt1gvnk/1639587729000/pc4dO77lVID47DcqO6rlXOh7iFwVhs2D/04764266372773721127/5AIsG_vbQ92WtZH3MM_eh49R-tzfZ6bIazqL4E8JtkoRIsT9UpK_O7-ZzWsE3za6iZzPzOZcSTl5nOx4MiNCu4iUREc3WMa47upbIrWWfTFu9oPzCaU6vKVOv92ivI26MxV3Z0bFfPQYLnupv8JJVzMnnoA7p7cYvhN8yhCOB9uafcpKJRbcFQ9Oc9jWbUP9iDCg--Vs?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>121.564968212849,25.03926998328101,15.12567259179614</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0799BE47B01EF32F6DA1">
+		<name>Nankang Tires</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>121.6112532979298</longitude>
+			<latitude>25.0314876484529</latitude>
+			<altitude>44.75119188920102</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3297.681023788755</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0157380FEC1EF4734235</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUlzRy92Yjc1dDd6NkVvUFJZV0JPLzl3b2ZVZW9INk5oZjlLTHJoc2kzejRuMVc5cUNiWWd0a1E0RWNqUUlMeHdHUmVkWk5NaGFHZnRSQkFOWEZOdHIxS0lJdTZXNVhHNS9xMTZOM0xGRTJCenZ5cmRMT2lHWThYUkR4S3l2RFEvb0V5aXpTazNzQy9Fc0hJZUpScElhSnlCUjdOU2tPVGliZXZMclcyekVyWGtMWXkrcHpBVzhjVFFUSU9iVFRmOVBFVlhyUlZxdlNoc3NsYmh5ZVFVZWtEelpLejRtOE1mOXRDZ3VpdjFmTnJ5R05GNXBndEhnPT0">
+				<gx:ImageUrl>https://doc-0o-8k-mymaps.googleusercontent.com/untrusted/hostedimage/nc99lrgmq6vokucj4iknv3jf2s/70fpgqvc4a0d76i4rl28u5pkak/1639587729000/pc4dO77lVID47DcqO6rlXOh7iFwVhs2D/04764266372773721127/5AIsG_vbxQPahIl4GaqtKrG7yFKLhNdH8tDqc3W1Rdwmg9fXepU0pkwdGSb8h736GpsWAdqwalZLtF-HD1BDK0Sq4Hl-8_WBhmMO6o8NczRrwvHPHbYeuiKIRukSaNQ1LIeguhA3qZ93MlRmOAYaLjxp5B3AywozbYV76fXLysiPW3dfUXua7DniHnWaUrZtOHuyyekA?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>121.6111949,25.0312347,46.55299531146992</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D38794FC41EF3384CD6">
+		<name>Puerto Montt</name>
+		<visibility>0</visibility>
+		<gx:mid>/m/03fxkl</gx:mid>
+		<gx:fid>0x96183a4d6920f407:0x86a3f15a79a5c9df</gx:fid>
+		<LookAt>
+			<longitude>-72.93748467844097</longitude>
+			<latitude>-41.46789473210641</latitude>
+			<altitude>49.25214595076905</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>17491.06992145535</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0256857B011EF4734237</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUlzRy92YU1GL0N2RGk3WUVVNEovNUJkcCs2NDlNaXhFWnpFM2dMc3BjVkdyOHBtRm1YbDZtakIrUElKSDZZV3hxRW5YQzEzZUZMWTlhMCt0QzlBU3YvVExVc2hmM3BPck41ZjUzUXBUeXU2QTE0dlYxRzF5eXVLNVZRUUhtT0NXSnk4WlJLMnFwRDBmcjduRHU5MUhZZlh3OVYvNEhMM1BYZzZpSFUvNDU5VEtBamFSS2VacGxla29NT1o1d1QzVEJZV09aWnJSRkJtNGtYSTFOelM2MEU1aStQcnlrRThZUG9hRUZHR21ENUN5cDFYQWNTL2ljST0">
+				<gx:ImageUrl>https://doc-14-8k-mymaps.googleusercontent.com/untrusted/hostedimage/nc99lrgmq6vokucj4iknv3jf2s/jbcpns1pqm2ta2ur3c6q5jeme4/1639587729000/pc4dO77lVID47DcqO6rlXOh7iFwVhs2D/04764266372773721127/5AIsG_vZDVQtN19ySgK1TFKOceBUxDLxLzbkSQCiKpbpvN4Noi3dFmHjwh9qJbR4co2tVG6gPJ1RFuF5mywbAlzk0w_0sj85YxrXG-bqWrR75lxib4wK0dBrbd-yTIgEwEhi_6C5tUKucY9uKtVISUVvVs2kMTEHFcgIEeabqOq1NT8AnC3H6PWX10VA1lRA5NWV_lc0M?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-72.94113639999999,-41.468917,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0661C0DE2A1EF33C53FC">
+		<name>Puerto, Punta Arenas</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>-70.90767184589276</longitude>
+			<latitude>-53.16717563659126</latitude>
+			<altitude>5.858851634051847</altitude>
+			<heading>-54.73810514981705</heading>
+			<tilt>41.50903777152487</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1953.424947333697</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0157380FEC1EF4734235</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUlzRy92YTU2MkROVExFb2ZXbDBIbXcvTHRXbHVzNzJqTGtMZnNIWUhsYnEwWU5paHFOSlN5Q3dINnVsZWFEUDZjbXNXcmx1M2Nyakh3blpXQ1o1MVloZ0E5MmZabWxSVTVpUHJWa1kza25TZDNXZURLQ2piR1JWMnFOTXNRY3kraG1BckxSMlUyRzVDZ1Jyc2VQVThWQ3liY3NZWjF1UHB4SlJFV3pmdlZpS2VkaDlFYXNXN3RGSHRxcDlMbzZ0eUlrcUMyTDZFUGZ3VlpxK1QyR05QRHBNLy9IbGZiQzdHTk01T0N4YWFpSEZkOVp0OElGZ0dnPT0">
+				<gx:ImageUrl>https://doc-14-8k-mymaps.googleusercontent.com/untrusted/hostedimage/nc99lrgmq6vokucj4iknv3jf2s/uh5urn9jsjfhvn4bus3hgfdoi0/1639587729000/pc4dO77lVID47DcqO6rlXOh7iFwVhs2D/04764266372773721127/5AIsG_vbHNhSjf6M82dFZVOZNTJK3QApVHBcOSXC4ExmsGBIBCakUo6SAy73LBdpCofbXkZRhx8ou8JfvvzwUtiXNiYlQeTxuKHc73Dckv3hlBkH523J6VTvsL7Xoj2TzaSfc5Ps5gOj5semfJjacGzrLGb-eihZcwEm5fHRSV9zXQDXS-2r1x3naCTHWVDSC9AFTdgk?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-70.90842540533012,-53.16736327319495,5.865186047913879</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09613F2AC11EF33D203F">
+		<name>Neumáticos San Jorge</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>-70.87396103350483</longitude>
+			<latitude>-53.13503908076844</latitude>
+			<altitude>8.572632679020815</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1348.397635329457</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0157380FEC1EF4734235</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUlzRy92WnRzQVp3NEQ4UkpWcFozbk54OExGRWlHY1ZxTE5vQyswNjljbEV6aUI0REJNVFUyYVNRdFc5NWVIMG92emtiZUx2UzdoUU5LazMyNDJIcnpHbWorN242Y1NLOGpzaXlkd3NOUmhNY2ZHTG1mNFBNYWNNOG1yUDhGT08ySXZnb1c3SEpqRVc3TFVSSEZaWDNIYnFJVVYwTDYyWHRYalc2VFNFSUtEZGRNaFZaSjhVK0dHdTM0dVRTWWgvNUZaYUNhSk9lUGZrTGN3eE1NTUl4eEYvZnlJZkF1QVVZcmF4UWM4cEcvVUw0V0J3ME1NclpnPT0">
+				<gx:ImageUrl>https://doc-14-8k-mymaps.googleusercontent.com/untrusted/hostedimage/nc99lrgmq6vokucj4iknv3jf2s/jkhsjobl1k7j88i3d68ccsspfs/1639587729000/pc4dO77lVID47DcqO6rlXOh7iFwVhs2D/04764266372773721127/5AIsG_vYSwmbgw0CrZvCNAtsBtCgDRE5PCiFTeR-XusANQ6v1jVBut8hz89XdWCjWFI7PcH_Lp5XqhX4NS8v_QukpdimO74uNimxVeOPSPT1uL0WkSvZ97mXdepPBeVE0gfbNwXpm_4rP49c08WhlrrEtynhtAmI_GYaGr__zZJQt_0a9fFts3V-AmKYygXqebRQ_dzg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-70.8743065,-53.13493159999999,8.120475313423302</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07DAB5DCE61EF33E6788">
+		<name>Puerto Punta Arenas</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>-70.90730234424943</longitude>
+			<latitude>-53.16764577155833</latitude>
+			<altitude>5.013924961421963</altitude>
+			<heading>-54.73840233831435</heading>
+			<tilt>45.00849228037538</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1954.183318384748</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0157380FEC1EF4734235</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUlzRy92WXVrdm5DWDg4VUJ5NG1yeDF1SEU3N1E5RGlzR0c2V2RUZTdJajIyQ0gyMzlMRGRPUDNYYW83Q3dDRWg5V2VJdllIMlVMSUc2Rms5QWxKTG1naWY3RTF5NnJPNENKbFBWeUxSU1dmbTh0OGtZWk4xMTRETWtFOGdMUlI2OWQ4cTljTHdkNWFneUVpNnNDdjB1YlRabUVCOWpiclBtNjNZb1gzTHlIcXdhQUpsdmJPdXVZZ3NWL3hnc2RDU083YTFNWFRNQlJNTXd0MloyRmVFT0tUYUhYQVlvb2x3aWZXSXVHRzdLSVVtUU1mamwvRmZnPT0">
+				<gx:ImageUrl>https://doc-0o-8k-mymaps.googleusercontent.com/untrusted/hostedimage/nc99lrgmq6vokucj4iknv3jf2s/c10q8anuo171f4spcl1d32smdo/1639587729000/pc4dO77lVID47DcqO6rlXOh7iFwVhs2D/04764266372773721127/5AIsG_vbFOi8_Za7gLQ-OxqjutRxG8hBCjN5AYJs39T8ErHPEhbrm81_z62HmnW9GhGtXsqtqgZ_PBaye_814lPr8YMcwkA80W6x22cxzGPOYzprfQPG6vqZxfezLuXOwPUPdElENUj-h17JUOp9PD0ftf_3Lz6znioRj_zIhrM3bmFNFqzkYa7vkjXuPmthuugmwuhY?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-70.90842540533012,-53.16736327319495,5.86527609612385</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F60167C691EF340599B">
+		<name>Puerto Williams</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>-67.59841169133159</longitude>
+			<latitude>-54.93195720173981</latitude>
+			<altitude>1.102582768862892</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>695.6727707611572</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0157380FEC1EF4734235</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUlzRy92Ykp5SEZYMVh4aHY4Z2IyN0ZLM1l6WUlPWGpNWHEva29hRUorV3gxR2FjRmwyMGhnN3BXRWZpc01sVllOalZnTXBaN3dNdFZIZjUvRDByak9TUGY3YW5SZmd5by82WDRCdk1QcGpnYnE4dkFSeExsYkpyZzJoNHZyMVUvRjJZaUpPcUVKZWtGT3lRWDBuOEtKZHZrMkRrZzZWMUtwSUJnaE9DaEx5L3Y3OU5DT2dSdWRiU1hqU1hKenZjbDdYTVJxSjJhSDg1czhuWVdKdVBxL3RFTnl3Z2NzNEI0V2FXdmFTenBVOFhtTVM4eEd6VFF3PT0">
+				<gx:ImageUrl>https://doc-04-8k-mymaps.googleusercontent.com/untrusted/hostedimage/nc99lrgmq6vokucj4iknv3jf2s/2h0u8g0h5cbogjnn8e8f1u1as8/1639587729000/pc4dO77lVID47DcqO6rlXOh7iFwVhs2D/04764266372773721127/5AIsG_vY6MPFkUI8uaO0vjw0XZ6i4T2tGErmw8PTlSxJpjoh9q1gj0YC_lB0y642hLrQdCSraAB533sUi6K9MjhMzPmI6nbpbY_jS2hTkVWjkhCT3r0P4PKo-AOQ5P4oYyZKhLpI57emwXxC8x5heUAmSanUOohz7C9R4Rm-AwGsG5dcy50KUlHFqZyboLNMD0Nao5PY?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-67.59866419982913,-54.93151558872876,0.1131344945298662</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04DB4488E21EF342A9EB">
+		<name>Vulcanización</name>
+		<visibility>0</visibility>
+		<LookAt>
+			<longitude>-67.59977110090098</longitude>
+			<latitude>-54.93711501532062</latitude>
+			<altitude>32.30110624270161</altitude>
+			<heading>53.20321700599333</heading>
+			<tilt>44.9999996406033</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>575.9378487309733</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0157380FEC1EF4734235</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUlzRy92WnlhcFlsbitWalA5YTJUZ1ZjSWIrd1FFbWFCNlNKUU9EanBWQm9JYUFCUGNxbjVRVDBUMCt6NlFHWmIwUGVVVW4vVnRjZ1NmM1M4VkJPMVVQSDR1RGpQblZWdWMzbmRjZFlDcU54UWtZRnV3TVhHWnpobU41NEdKRmRXNTk0NGFieFl3aUlwQ090QWVnTEFZLy9FbnpQaVY1M2xtYnNzeW1mZkxlZDUxUkIzY212MWVTM1JjZWJRYWlQRzUxcUR2NzZrZlNwTG1BS2pJOW5ONlJOUXZJb2VaaTJ5QzIzNktqY1JrS24yNXNBSnBjQ1N3PT0">
+				<gx:ImageUrl>https://doc-0c-8k-mymaps.googleusercontent.com/untrusted/hostedimage/nc99lrgmq6vokucj4iknv3jf2s/0p6c250qqcf39r7ugkgngpioh0/1639587729000/pc4dO77lVID47DcqO6rlXOh7iFwVhs2D/04764266372773721127/5AIsG_vYJ9TRslzZHjgSxnIuY8OiS7SPiKDcjJHe6TtNoeEUBCtm6cVQTe5TOiyunt2OOcUF6We4t6Fu5Xj7VHGuY8sdwi180M1WKvdU7O412lx-EEjhUbGz7WGlN14jQAN8kd-vUDmhhsK4rCHCGCy2NkVzkfbrndM8cppz25bF_tP-b9SwMW6GmFSy653hm5KFI3Xg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<coordinates>-67.5997706,-54.9371148,32.33559019192359</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
